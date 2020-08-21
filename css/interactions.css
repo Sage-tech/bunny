@@ -3,7 +3,7 @@
 ==================================== */
 
 .button {
-	color: #4a89ca;
+	color: #683b38;
 	border: 2px solid;
 	transition-property: background, border-radius, color;
 	transition-duration: .4s, .8s, .4s;
@@ -11,12 +11,12 @@
 
 .button:hover {
 	color: #fff;
-	background: #4a89ca;
+	background: #683b38;
 	border-radius: 1em;
 }
 
 .button:active {
-	background: #a33830;
+	background: #bd4138;
 }
 
 /* ================================= 

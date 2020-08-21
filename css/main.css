@@ -21,7 +21,7 @@ h3 {
 }
 h2 {
 	font-size: 1.125em;
-	color: #4a89ca;
+	color: #683b38;
 	font-weight: 600;
 	margin: 0;
 }
@@ -45,7 +45,7 @@ p {
 .container {
 	width: 94.02985075%;
 	max-width: 1260px;
-	background: #fff;
+	background: rgb(255, 255, 255);
 	margin: auto;
 }
 .main-header {
